@@ -1,0 +1,6 @@
+Animal,Age (yrs),Weight (kg),Price (PKR),Quality
+Cow,1.5,250,300000,Excellent
+Goat,1.0,45,45000,Fair
+Buffalo,3.0,400,624000,Excellent
+Sheep,2.0,55,55000,Good
+Camel,4.0,500,840000,Excellent
