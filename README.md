@@ -1,29 +1,12 @@
-# Livestock Price & Quality Predictor 🐑
 
-A simple Python program to estimate the **price** and **quality** of livestock (cow, goat, sheep, buffalo, camel, etc.) based on age and weight.  
-The rules are easy to follow, so even beginners can understand the code.
 
----
+Livestock Price & Quality Predictor 
 
-## Features
-- Supports multiple animal types  
-- Adjusts price by age:
-  - Under 1 year → 10% less  
-  - 1–2 years → normal price  
-  - Over 2 years → 20% more  
-- Rates quality by weight:
-  - < 50 kg → Fair  
-  - 50–70 kg → Good  
-  - > 70 kg → Excellent  
-- Can add multiple animals in one run  
-- Shows total price at the end  
+This project is a simple Python application that calculates an estimated price and quality rating for livestock based on two key factors: age and weight.
 
----
+It is designed with a practical use case, making it easy to understand while demonstrating structured logic and clean code practices.
 
-## How to Run
-1. Install Python (3.x recommended)  
-2. Clone or download this project  
-3. Run the program:  
-   ```bash
-   python livestock.py
-   
+The goal of this project is to show how Python can be applied to everyday problems in agriculture and livestock management, while also serving as a way to practice coding fundamentals.
+
+
+
